@@ -8,4 +8,5 @@ this a readme file
 its basic documentation
 
 how to install n stuff
+blah blah im writing stuff
 
